@@ -1,26 +1,34 @@
-## Colors
-Personal Brand Colors.
+# Personal Brand Colors
+Colors used across personal branding (e.g.. website, social media profiles, profile picture/avatar).
 
-### Midnight Cyan *(Primary Color)*
- - **HEX:** #0389A1
- - **CMYK:** (98%, 15%, 0%, 37%)
- - **HSL:** (189, 96%, 32%)
- - **RGB:** (3, 137, 161)
+## Primary Colors
+### Midnight Cyan _(Pantone 7712 CP)_
+- **HEX:** #00879D
+- **HSL:** (188, 100% , 31%)
+- **RGB:** rgb(0,135,157)
 
-### Twilight Black
-- **HEX:** #28282B
-- **CMYK:** (7%, 7%, 0%, 83%)
-- **HSL:** (240, 4%, 16%)
-- **RGB:** (40, 40, 43)
+### Midday Orange _(Pantone 1675 CP)_
+- **HEX:** #AF4D2A
+- **HSL:** (16, 61% , 43%)
+- **RGB:** rgb(175,77,42)
 
-### Onxy Grey
-- **HEX:** #424244
-- **CMYK:** (3%, 3%, 0%, 73%)
-- **HSL:** (240, 1%, 26%)
-- **RGB:** (66, 66, 68)
+### Twilight Green _(Pantone 5477 CP)_
+- **HEX:** #4A6454
+- **HSL:** (143, 15% , 34%)
+- **RGB:** rgb(74,100,84)
 
-### Platinum Grey
-- **HEX:** #E8E8E8
-- **CMYK:** (0%, 0%, 0%, 9%)
-- **HSL:** (0, 0%, 91%)
-- **RGB:** (232, 232, 232)
+## Secondary Colors
+### Black _(Pantone Black 6 CP)_
+- **HEX:** #161F28
+- **HSL:** (210, 29% , 12%)
+- **RGB:** rgb(22,31,40)
+
+### Grey-Brown _(Pantone 8623 C)_
+- **HEX:** #433A32
+- **HSL:** (28, 15% , 23%)
+- **RGB:** rgb(67,58,50)
+
+### Off-White _(Pantone 649 CP)_
+- **HEX:** #DCE4EC
+- **HSL:** (210, 30% , 89%)
+- **RGB:** rgb(220,228,236)
